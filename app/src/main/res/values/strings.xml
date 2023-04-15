@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apiapp</string>
+    <string name="location">location</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="min_temp">Min temp</string>
+    <string name="max_temp">Max temp</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
